@@ -1,0 +1,3199 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod0
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod1
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod2
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod3
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod4
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod5
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod6
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod7
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod8
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod9
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod10
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod11
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod12
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod13
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod14
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod15
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod16
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod17
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod18
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod19
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod20
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod21
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod22
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod23
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod24
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod25
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod26
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod27
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod28
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod29
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod30
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod31
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod32
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod33
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod34
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod35
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod36
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod37
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod38
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod39
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod40
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod41
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod42
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod43
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod44
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod45
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod46
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod47
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod48
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod49
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod50
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod51
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod52
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod53
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod54
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod55
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod56
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod57
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod58
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod59
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod60
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod61
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod62
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod63
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod64
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod65
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod66
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod67
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod68
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod69
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod70
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod71
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod72
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod73
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod74
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod75
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod76
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod77
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod78
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod79
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod80
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod81
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod82
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod83
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod84
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod85
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod86
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod87
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod88
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod89
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod90
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod91
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod92
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod93
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod94
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod95
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod96
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod97
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod98
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod99
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod100
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod101
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod102
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod103
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod104
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod105
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod106
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod107
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod108
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod109
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod110
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod111
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod112
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod113
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod114
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod115
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod116
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod117
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod118
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod119
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod120
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod121
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod122
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod123
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod124
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod125
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod126
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod127
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod128
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod129
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod130
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod131
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod132
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod133
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod134
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod135
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod136
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod137
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod138
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod139
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod140
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod141
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod142
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod143
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod144
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod145
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod146
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod147
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod148
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod149
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod150
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod151
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod152
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod153
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod154
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod155
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod156
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod157
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod158
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod159
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod160
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod161
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod162
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod163
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod164
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod165
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod166
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod167
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod168
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod169
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod170
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod171
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod172
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod173
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod174
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod175
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod176
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod177
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod178
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod179
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod180
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod181
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod182
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod183
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod184
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod185
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod186
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod187
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod188
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod189
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod190
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod191
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod192
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod193
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod194
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod195
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod196
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod197
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod198
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod199
+  namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest

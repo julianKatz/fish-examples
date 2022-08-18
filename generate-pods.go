@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"html/template"
 	"os"
@@ -12,6 +13,8 @@ kind: Pod
 metadata:
   name: {{ .Name }}
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -36,10 +39,11 @@ type data struct {
 	Name string
 }
 
-const numberOfPods = 5000
-
 func main() {
-	for i := 0; i < numberOfPods; i++ {
+	numberOfPods := flag.Int("n", 0, "numberOfPods")
+	flag.Parse()
+
+	for i := 0; i < *numberOfPods; i++ {
 		// standard output to print merged data
 		err := templ.Execute(os.Stdout, data{Name: "pod" + strconv.Itoa(i)})
 		// if there is no error,
@@ -48,7 +52,7 @@ func main() {
 			fmt.Println(err)
 		}
 
-		if i < numberOfPods-1 {
+		if i < *numberOfPods-1 {
 			fmt.Println("\n---")
 		}
 	}

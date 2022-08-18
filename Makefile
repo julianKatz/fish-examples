@@ -1,6 +1,10 @@
-FOLDER = 5000-pods
+NUM = 5000
+FOLDER = $(NUM)-pods
 
 .PHONY: generate
 generate:
-	mkdir $(FOLDER)
-	go run generate-pods.go > $(FOLDER)/manifest.yaml
+	mkdir $(FOLDER) || true
+	go run generate-pods.go -n $(NUM) > $(FOLDER)/manifest.yaml
+
+.PHONY: clean
+	kubectl delete pods -n default -l "app.kubernetes.io/name=tbyb-fishfood"

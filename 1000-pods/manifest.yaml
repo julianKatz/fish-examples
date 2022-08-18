@@ -3,6 +3,8 @@ kind: Pod
 metadata:
   name: pod0
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -17,6 +19,8 @@ kind: Pod
 metadata:
   name: pod1
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -31,6 +35,8 @@ kind: Pod
 metadata:
   name: pod2
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -45,6 +51,8 @@ kind: Pod
 metadata:
   name: pod3
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -59,6 +67,8 @@ kind: Pod
 metadata:
   name: pod4
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -73,6 +83,8 @@ kind: Pod
 metadata:
   name: pod5
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -87,6 +99,8 @@ kind: Pod
 metadata:
   name: pod6
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -101,6 +115,8 @@ kind: Pod
 metadata:
   name: pod7
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -115,6 +131,8 @@ kind: Pod
 metadata:
   name: pod8
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -129,6 +147,8 @@ kind: Pod
 metadata:
   name: pod9
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -143,6 +163,8 @@ kind: Pod
 metadata:
   name: pod10
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -157,6 +179,8 @@ kind: Pod
 metadata:
   name: pod11
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -171,6 +195,8 @@ kind: Pod
 metadata:
   name: pod12
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -185,6 +211,8 @@ kind: Pod
 metadata:
   name: pod13
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -199,6 +227,8 @@ kind: Pod
 metadata:
   name: pod14
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -213,6 +243,8 @@ kind: Pod
 metadata:
   name: pod15
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -227,6 +259,8 @@ kind: Pod
 metadata:
   name: pod16
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -241,6 +275,8 @@ kind: Pod
 metadata:
   name: pod17
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -255,6 +291,8 @@ kind: Pod
 metadata:
   name: pod18
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -269,6 +307,8 @@ kind: Pod
 metadata:
   name: pod19
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -283,6 +323,8 @@ kind: Pod
 metadata:
   name: pod20
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -297,6 +339,8 @@ kind: Pod
 metadata:
   name: pod21
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -311,6 +355,8 @@ kind: Pod
 metadata:
   name: pod22
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -325,6 +371,8 @@ kind: Pod
 metadata:
   name: pod23
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -339,6 +387,8 @@ kind: Pod
 metadata:
   name: pod24
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -353,6 +403,8 @@ kind: Pod
 metadata:
   name: pod25
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -367,6 +419,8 @@ kind: Pod
 metadata:
   name: pod26
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -381,6 +435,8 @@ kind: Pod
 metadata:
   name: pod27
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -395,6 +451,8 @@ kind: Pod
 metadata:
   name: pod28
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -409,6 +467,8 @@ kind: Pod
 metadata:
   name: pod29
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -423,6 +483,8 @@ kind: Pod
 metadata:
   name: pod30
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -437,6 +499,8 @@ kind: Pod
 metadata:
   name: pod31
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -451,6 +515,8 @@ kind: Pod
 metadata:
   name: pod32
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -465,6 +531,8 @@ kind: Pod
 metadata:
   name: pod33
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -479,6 +547,8 @@ kind: Pod
 metadata:
   name: pod34
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -493,6 +563,8 @@ kind: Pod
 metadata:
   name: pod35
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -507,6 +579,8 @@ kind: Pod
 metadata:
   name: pod36
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -521,6 +595,8 @@ kind: Pod
 metadata:
   name: pod37
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -535,6 +611,8 @@ kind: Pod
 metadata:
   name: pod38
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -549,6 +627,8 @@ kind: Pod
 metadata:
   name: pod39
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -563,6 +643,8 @@ kind: Pod
 metadata:
   name: pod40
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -577,6 +659,8 @@ kind: Pod
 metadata:
   name: pod41
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -591,6 +675,8 @@ kind: Pod
 metadata:
   name: pod42
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -605,6 +691,8 @@ kind: Pod
 metadata:
   name: pod43
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -619,6 +707,8 @@ kind: Pod
 metadata:
   name: pod44
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -633,6 +723,8 @@ kind: Pod
 metadata:
   name: pod45
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -647,6 +739,8 @@ kind: Pod
 metadata:
   name: pod46
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -661,6 +755,8 @@ kind: Pod
 metadata:
   name: pod47
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -675,6 +771,8 @@ kind: Pod
 metadata:
   name: pod48
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -689,6 +787,8 @@ kind: Pod
 metadata:
   name: pod49
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -703,6 +803,8 @@ kind: Pod
 metadata:
   name: pod50
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -717,6 +819,8 @@ kind: Pod
 metadata:
   name: pod51
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -731,6 +835,8 @@ kind: Pod
 metadata:
   name: pod52
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -745,6 +851,8 @@ kind: Pod
 metadata:
   name: pod53
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -759,6 +867,8 @@ kind: Pod
 metadata:
   name: pod54
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -773,6 +883,8 @@ kind: Pod
 metadata:
   name: pod55
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -787,6 +899,8 @@ kind: Pod
 metadata:
   name: pod56
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -801,6 +915,8 @@ kind: Pod
 metadata:
   name: pod57
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -815,6 +931,8 @@ kind: Pod
 metadata:
   name: pod58
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -829,6 +947,8 @@ kind: Pod
 metadata:
   name: pod59
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -843,6 +963,8 @@ kind: Pod
 metadata:
   name: pod60
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -857,6 +979,8 @@ kind: Pod
 metadata:
   name: pod61
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -871,6 +995,8 @@ kind: Pod
 metadata:
   name: pod62
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -885,6 +1011,8 @@ kind: Pod
 metadata:
   name: pod63
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -899,6 +1027,8 @@ kind: Pod
 metadata:
   name: pod64
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -913,6 +1043,8 @@ kind: Pod
 metadata:
   name: pod65
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -927,6 +1059,8 @@ kind: Pod
 metadata:
   name: pod66
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -941,6 +1075,8 @@ kind: Pod
 metadata:
   name: pod67
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -955,6 +1091,8 @@ kind: Pod
 metadata:
   name: pod68
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -969,6 +1107,8 @@ kind: Pod
 metadata:
   name: pod69
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -983,6 +1123,8 @@ kind: Pod
 metadata:
   name: pod70
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -997,6 +1139,8 @@ kind: Pod
 metadata:
   name: pod71
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1011,6 +1155,8 @@ kind: Pod
 metadata:
   name: pod72
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1025,6 +1171,8 @@ kind: Pod
 metadata:
   name: pod73
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1039,6 +1187,8 @@ kind: Pod
 metadata:
   name: pod74
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1053,6 +1203,8 @@ kind: Pod
 metadata:
   name: pod75
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1067,6 +1219,8 @@ kind: Pod
 metadata:
   name: pod76
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1081,6 +1235,8 @@ kind: Pod
 metadata:
   name: pod77
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1095,6 +1251,8 @@ kind: Pod
 metadata:
   name: pod78
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1109,6 +1267,8 @@ kind: Pod
 metadata:
   name: pod79
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1123,6 +1283,8 @@ kind: Pod
 metadata:
   name: pod80
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1137,6 +1299,8 @@ kind: Pod
 metadata:
   name: pod81
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1151,6 +1315,8 @@ kind: Pod
 metadata:
   name: pod82
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1165,6 +1331,8 @@ kind: Pod
 metadata:
   name: pod83
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1179,6 +1347,8 @@ kind: Pod
 metadata:
   name: pod84
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1193,6 +1363,8 @@ kind: Pod
 metadata:
   name: pod85
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1207,6 +1379,8 @@ kind: Pod
 metadata:
   name: pod86
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1221,6 +1395,8 @@ kind: Pod
 metadata:
   name: pod87
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1235,6 +1411,8 @@ kind: Pod
 metadata:
   name: pod88
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1249,6 +1427,8 @@ kind: Pod
 metadata:
   name: pod89
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1263,6 +1443,8 @@ kind: Pod
 metadata:
   name: pod90
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1277,6 +1459,8 @@ kind: Pod
 metadata:
   name: pod91
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1291,6 +1475,8 @@ kind: Pod
 metadata:
   name: pod92
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1305,6 +1491,8 @@ kind: Pod
 metadata:
   name: pod93
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1319,6 +1507,8 @@ kind: Pod
 metadata:
   name: pod94
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1333,6 +1523,8 @@ kind: Pod
 metadata:
   name: pod95
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1347,6 +1539,8 @@ kind: Pod
 metadata:
   name: pod96
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1361,6 +1555,8 @@ kind: Pod
 metadata:
   name: pod97
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1375,6 +1571,8 @@ kind: Pod
 metadata:
   name: pod98
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1389,6 +1587,8 @@ kind: Pod
 metadata:
   name: pod99
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1403,6 +1603,8 @@ kind: Pod
 metadata:
   name: pod100
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1417,6 +1619,8 @@ kind: Pod
 metadata:
   name: pod101
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1431,6 +1635,8 @@ kind: Pod
 metadata:
   name: pod102
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1445,6 +1651,8 @@ kind: Pod
 metadata:
   name: pod103
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1459,6 +1667,8 @@ kind: Pod
 metadata:
   name: pod104
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1473,6 +1683,8 @@ kind: Pod
 metadata:
   name: pod105
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1487,6 +1699,8 @@ kind: Pod
 metadata:
   name: pod106
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1501,6 +1715,8 @@ kind: Pod
 metadata:
   name: pod107
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1515,6 +1731,8 @@ kind: Pod
 metadata:
   name: pod108
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1529,6 +1747,8 @@ kind: Pod
 metadata:
   name: pod109
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1543,6 +1763,8 @@ kind: Pod
 metadata:
   name: pod110
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1557,6 +1779,8 @@ kind: Pod
 metadata:
   name: pod111
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1571,6 +1795,8 @@ kind: Pod
 metadata:
   name: pod112
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1585,6 +1811,8 @@ kind: Pod
 metadata:
   name: pod113
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1599,6 +1827,8 @@ kind: Pod
 metadata:
   name: pod114
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1613,6 +1843,8 @@ kind: Pod
 metadata:
   name: pod115
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1627,6 +1859,8 @@ kind: Pod
 metadata:
   name: pod116
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1641,6 +1875,8 @@ kind: Pod
 metadata:
   name: pod117
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1655,6 +1891,8 @@ kind: Pod
 metadata:
   name: pod118
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1669,6 +1907,8 @@ kind: Pod
 metadata:
   name: pod119
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1683,6 +1923,8 @@ kind: Pod
 metadata:
   name: pod120
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1697,6 +1939,8 @@ kind: Pod
 metadata:
   name: pod121
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1711,6 +1955,8 @@ kind: Pod
 metadata:
   name: pod122
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1725,6 +1971,8 @@ kind: Pod
 metadata:
   name: pod123
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1739,6 +1987,8 @@ kind: Pod
 metadata:
   name: pod124
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1753,6 +2003,8 @@ kind: Pod
 metadata:
   name: pod125
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1767,6 +2019,8 @@ kind: Pod
 metadata:
   name: pod126
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1781,6 +2035,8 @@ kind: Pod
 metadata:
   name: pod127
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1795,6 +2051,8 @@ kind: Pod
 metadata:
   name: pod128
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1809,6 +2067,8 @@ kind: Pod
 metadata:
   name: pod129
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1823,6 +2083,8 @@ kind: Pod
 metadata:
   name: pod130
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1837,6 +2099,8 @@ kind: Pod
 metadata:
   name: pod131
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1851,6 +2115,8 @@ kind: Pod
 metadata:
   name: pod132
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1865,6 +2131,8 @@ kind: Pod
 metadata:
   name: pod133
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1879,6 +2147,8 @@ kind: Pod
 metadata:
   name: pod134
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1893,6 +2163,8 @@ kind: Pod
 metadata:
   name: pod135
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1907,6 +2179,8 @@ kind: Pod
 metadata:
   name: pod136
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1921,6 +2195,8 @@ kind: Pod
 metadata:
   name: pod137
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1935,6 +2211,8 @@ kind: Pod
 metadata:
   name: pod138
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1949,6 +2227,8 @@ kind: Pod
 metadata:
   name: pod139
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1963,6 +2243,8 @@ kind: Pod
 metadata:
   name: pod140
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1977,6 +2259,8 @@ kind: Pod
 metadata:
   name: pod141
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -1991,6 +2275,8 @@ kind: Pod
 metadata:
   name: pod142
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2005,6 +2291,8 @@ kind: Pod
 metadata:
   name: pod143
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2019,6 +2307,8 @@ kind: Pod
 metadata:
   name: pod144
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2033,6 +2323,8 @@ kind: Pod
 metadata:
   name: pod145
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2047,6 +2339,8 @@ kind: Pod
 metadata:
   name: pod146
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2061,6 +2355,8 @@ kind: Pod
 metadata:
   name: pod147
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2075,6 +2371,8 @@ kind: Pod
 metadata:
   name: pod148
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2089,6 +2387,8 @@ kind: Pod
 metadata:
   name: pod149
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2103,6 +2403,8 @@ kind: Pod
 metadata:
   name: pod150
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2117,6 +2419,8 @@ kind: Pod
 metadata:
   name: pod151
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2131,6 +2435,8 @@ kind: Pod
 metadata:
   name: pod152
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2145,6 +2451,8 @@ kind: Pod
 metadata:
   name: pod153
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2159,6 +2467,8 @@ kind: Pod
 metadata:
   name: pod154
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2173,6 +2483,8 @@ kind: Pod
 metadata:
   name: pod155
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2187,6 +2499,8 @@ kind: Pod
 metadata:
   name: pod156
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2201,6 +2515,8 @@ kind: Pod
 metadata:
   name: pod157
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2215,6 +2531,8 @@ kind: Pod
 metadata:
   name: pod158
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2229,6 +2547,8 @@ kind: Pod
 metadata:
   name: pod159
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2243,6 +2563,8 @@ kind: Pod
 metadata:
   name: pod160
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2257,6 +2579,8 @@ kind: Pod
 metadata:
   name: pod161
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2271,6 +2595,8 @@ kind: Pod
 metadata:
   name: pod162
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2285,6 +2611,8 @@ kind: Pod
 metadata:
   name: pod163
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2299,6 +2627,8 @@ kind: Pod
 metadata:
   name: pod164
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2313,6 +2643,8 @@ kind: Pod
 metadata:
   name: pod165
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2327,6 +2659,8 @@ kind: Pod
 metadata:
   name: pod166
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2341,6 +2675,8 @@ kind: Pod
 metadata:
   name: pod167
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2355,6 +2691,8 @@ kind: Pod
 metadata:
   name: pod168
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2369,6 +2707,8 @@ kind: Pod
 metadata:
   name: pod169
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2383,6 +2723,8 @@ kind: Pod
 metadata:
   name: pod170
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2397,6 +2739,8 @@ kind: Pod
 metadata:
   name: pod171
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2411,6 +2755,8 @@ kind: Pod
 metadata:
   name: pod172
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2425,6 +2771,8 @@ kind: Pod
 metadata:
   name: pod173
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2439,6 +2787,8 @@ kind: Pod
 metadata:
   name: pod174
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2453,6 +2803,8 @@ kind: Pod
 metadata:
   name: pod175
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2467,6 +2819,8 @@ kind: Pod
 metadata:
   name: pod176
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2481,6 +2835,8 @@ kind: Pod
 metadata:
   name: pod177
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2495,6 +2851,8 @@ kind: Pod
 metadata:
   name: pod178
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2509,6 +2867,8 @@ kind: Pod
 metadata:
   name: pod179
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2523,6 +2883,8 @@ kind: Pod
 metadata:
   name: pod180
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2537,6 +2899,8 @@ kind: Pod
 metadata:
   name: pod181
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2551,6 +2915,8 @@ kind: Pod
 metadata:
   name: pod182
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2565,6 +2931,8 @@ kind: Pod
 metadata:
   name: pod183
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2579,6 +2947,8 @@ kind: Pod
 metadata:
   name: pod184
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2593,6 +2963,8 @@ kind: Pod
 metadata:
   name: pod185
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2607,6 +2979,8 @@ kind: Pod
 metadata:
   name: pod186
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2621,6 +2995,8 @@ kind: Pod
 metadata:
   name: pod187
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2635,6 +3011,8 @@ kind: Pod
 metadata:
   name: pod188
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2649,6 +3027,8 @@ kind: Pod
 metadata:
   name: pod189
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2663,6 +3043,8 @@ kind: Pod
 metadata:
   name: pod190
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2677,6 +3059,8 @@ kind: Pod
 metadata:
   name: pod191
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2691,6 +3075,8 @@ kind: Pod
 metadata:
   name: pod192
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2705,6 +3091,8 @@ kind: Pod
 metadata:
   name: pod193
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2719,6 +3107,8 @@ kind: Pod
 metadata:
   name: pod194
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2733,6 +3123,8 @@ kind: Pod
 metadata:
   name: pod195
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2747,6 +3139,8 @@ kind: Pod
 metadata:
   name: pod196
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2761,6 +3155,8 @@ kind: Pod
 metadata:
   name: pod197
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2775,6 +3171,8 @@ kind: Pod
 metadata:
   name: pod198
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2789,6 +3187,8 @@ kind: Pod
 metadata:
   name: pod199
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2803,6 +3203,8 @@ kind: Pod
 metadata:
   name: pod200
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2817,6 +3219,8 @@ kind: Pod
 metadata:
   name: pod201
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2831,6 +3235,8 @@ kind: Pod
 metadata:
   name: pod202
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2845,6 +3251,8 @@ kind: Pod
 metadata:
   name: pod203
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2859,6 +3267,8 @@ kind: Pod
 metadata:
   name: pod204
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2873,6 +3283,8 @@ kind: Pod
 metadata:
   name: pod205
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2887,6 +3299,8 @@ kind: Pod
 metadata:
   name: pod206
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2901,6 +3315,8 @@ kind: Pod
 metadata:
   name: pod207
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2915,6 +3331,8 @@ kind: Pod
 metadata:
   name: pod208
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2929,6 +3347,8 @@ kind: Pod
 metadata:
   name: pod209
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2943,6 +3363,8 @@ kind: Pod
 metadata:
   name: pod210
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2957,6 +3379,8 @@ kind: Pod
 metadata:
   name: pod211
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2971,6 +3395,8 @@ kind: Pod
 metadata:
   name: pod212
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2985,6 +3411,8 @@ kind: Pod
 metadata:
   name: pod213
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -2999,6 +3427,8 @@ kind: Pod
 metadata:
   name: pod214
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3013,6 +3443,8 @@ kind: Pod
 metadata:
   name: pod215
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3027,6 +3459,8 @@ kind: Pod
 metadata:
   name: pod216
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3041,6 +3475,8 @@ kind: Pod
 metadata:
   name: pod217
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3055,6 +3491,8 @@ kind: Pod
 metadata:
   name: pod218
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3069,6 +3507,8 @@ kind: Pod
 metadata:
   name: pod219
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3083,6 +3523,8 @@ kind: Pod
 metadata:
   name: pod220
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3097,6 +3539,8 @@ kind: Pod
 metadata:
   name: pod221
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3111,6 +3555,8 @@ kind: Pod
 metadata:
   name: pod222
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3125,6 +3571,8 @@ kind: Pod
 metadata:
   name: pod223
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3139,6 +3587,8 @@ kind: Pod
 metadata:
   name: pod224
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3153,6 +3603,8 @@ kind: Pod
 metadata:
   name: pod225
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3167,6 +3619,8 @@ kind: Pod
 metadata:
   name: pod226
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3181,6 +3635,8 @@ kind: Pod
 metadata:
   name: pod227
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3195,6 +3651,8 @@ kind: Pod
 metadata:
   name: pod228
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3209,6 +3667,8 @@ kind: Pod
 metadata:
   name: pod229
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3223,6 +3683,8 @@ kind: Pod
 metadata:
   name: pod230
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3237,6 +3699,8 @@ kind: Pod
 metadata:
   name: pod231
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3251,6 +3715,8 @@ kind: Pod
 metadata:
   name: pod232
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3265,6 +3731,8 @@ kind: Pod
 metadata:
   name: pod233
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3279,6 +3747,8 @@ kind: Pod
 metadata:
   name: pod234
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3293,6 +3763,8 @@ kind: Pod
 metadata:
   name: pod235
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3307,6 +3779,8 @@ kind: Pod
 metadata:
   name: pod236
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3321,6 +3795,8 @@ kind: Pod
 metadata:
   name: pod237
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3335,6 +3811,8 @@ kind: Pod
 metadata:
   name: pod238
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3349,6 +3827,8 @@ kind: Pod
 metadata:
   name: pod239
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3363,6 +3843,8 @@ kind: Pod
 metadata:
   name: pod240
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3377,6 +3859,8 @@ kind: Pod
 metadata:
   name: pod241
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3391,6 +3875,8 @@ kind: Pod
 metadata:
   name: pod242
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3405,6 +3891,8 @@ kind: Pod
 metadata:
   name: pod243
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3419,6 +3907,8 @@ kind: Pod
 metadata:
   name: pod244
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3433,6 +3923,8 @@ kind: Pod
 metadata:
   name: pod245
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3447,6 +3939,8 @@ kind: Pod
 metadata:
   name: pod246
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3461,6 +3955,8 @@ kind: Pod
 metadata:
   name: pod247
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3475,6 +3971,8 @@ kind: Pod
 metadata:
   name: pod248
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3489,6 +3987,8 @@ kind: Pod
 metadata:
   name: pod249
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3503,6 +4003,8 @@ kind: Pod
 metadata:
   name: pod250
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3517,6 +4019,8 @@ kind: Pod
 metadata:
   name: pod251
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3531,6 +4035,8 @@ kind: Pod
 metadata:
   name: pod252
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3545,6 +4051,8 @@ kind: Pod
 metadata:
   name: pod253
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3559,6 +4067,8 @@ kind: Pod
 metadata:
   name: pod254
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3573,6 +4083,8 @@ kind: Pod
 metadata:
   name: pod255
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3587,6 +4099,8 @@ kind: Pod
 metadata:
   name: pod256
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3601,6 +4115,8 @@ kind: Pod
 metadata:
   name: pod257
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3615,6 +4131,8 @@ kind: Pod
 metadata:
   name: pod258
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3629,6 +4147,8 @@ kind: Pod
 metadata:
   name: pod259
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3643,6 +4163,8 @@ kind: Pod
 metadata:
   name: pod260
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3657,6 +4179,8 @@ kind: Pod
 metadata:
   name: pod261
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3671,6 +4195,8 @@ kind: Pod
 metadata:
   name: pod262
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3685,6 +4211,8 @@ kind: Pod
 metadata:
   name: pod263
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3699,6 +4227,8 @@ kind: Pod
 metadata:
   name: pod264
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3713,6 +4243,8 @@ kind: Pod
 metadata:
   name: pod265
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3727,6 +4259,8 @@ kind: Pod
 metadata:
   name: pod266
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3741,6 +4275,8 @@ kind: Pod
 metadata:
   name: pod267
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3755,6 +4291,8 @@ kind: Pod
 metadata:
   name: pod268
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3769,6 +4307,8 @@ kind: Pod
 metadata:
   name: pod269
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3783,6 +4323,8 @@ kind: Pod
 metadata:
   name: pod270
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3797,6 +4339,8 @@ kind: Pod
 metadata:
   name: pod271
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3811,6 +4355,8 @@ kind: Pod
 metadata:
   name: pod272
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3825,6 +4371,8 @@ kind: Pod
 metadata:
   name: pod273
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3839,6 +4387,8 @@ kind: Pod
 metadata:
   name: pod274
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3853,6 +4403,8 @@ kind: Pod
 metadata:
   name: pod275
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3867,6 +4419,8 @@ kind: Pod
 metadata:
   name: pod276
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3881,6 +4435,8 @@ kind: Pod
 metadata:
   name: pod277
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3895,6 +4451,8 @@ kind: Pod
 metadata:
   name: pod278
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3909,6 +4467,8 @@ kind: Pod
 metadata:
   name: pod279
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3923,6 +4483,8 @@ kind: Pod
 metadata:
   name: pod280
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3937,6 +4499,8 @@ kind: Pod
 metadata:
   name: pod281
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3951,6 +4515,8 @@ kind: Pod
 metadata:
   name: pod282
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3965,6 +4531,8 @@ kind: Pod
 metadata:
   name: pod283
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3979,6 +4547,8 @@ kind: Pod
 metadata:
   name: pod284
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -3993,6 +4563,8 @@ kind: Pod
 metadata:
   name: pod285
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4007,6 +4579,8 @@ kind: Pod
 metadata:
   name: pod286
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4021,6 +4595,8 @@ kind: Pod
 metadata:
   name: pod287
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4035,6 +4611,8 @@ kind: Pod
 metadata:
   name: pod288
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4049,6 +4627,8 @@ kind: Pod
 metadata:
   name: pod289
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4063,6 +4643,8 @@ kind: Pod
 metadata:
   name: pod290
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4077,6 +4659,8 @@ kind: Pod
 metadata:
   name: pod291
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4091,6 +4675,8 @@ kind: Pod
 metadata:
   name: pod292
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4105,6 +4691,8 @@ kind: Pod
 metadata:
   name: pod293
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4119,6 +4707,8 @@ kind: Pod
 metadata:
   name: pod294
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4133,6 +4723,8 @@ kind: Pod
 metadata:
   name: pod295
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4147,6 +4739,8 @@ kind: Pod
 metadata:
   name: pod296
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4161,6 +4755,8 @@ kind: Pod
 metadata:
   name: pod297
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4175,6 +4771,8 @@ kind: Pod
 metadata:
   name: pod298
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4189,6 +4787,8 @@ kind: Pod
 metadata:
   name: pod299
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4203,6 +4803,8 @@ kind: Pod
 metadata:
   name: pod300
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4217,6 +4819,8 @@ kind: Pod
 metadata:
   name: pod301
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4231,6 +4835,8 @@ kind: Pod
 metadata:
   name: pod302
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4245,6 +4851,8 @@ kind: Pod
 metadata:
   name: pod303
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4259,6 +4867,8 @@ kind: Pod
 metadata:
   name: pod304
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4273,6 +4883,8 @@ kind: Pod
 metadata:
   name: pod305
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4287,6 +4899,8 @@ kind: Pod
 metadata:
   name: pod306
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4301,6 +4915,8 @@ kind: Pod
 metadata:
   name: pod307
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4315,6 +4931,8 @@ kind: Pod
 metadata:
   name: pod308
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4329,6 +4947,8 @@ kind: Pod
 metadata:
   name: pod309
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4343,6 +4963,8 @@ kind: Pod
 metadata:
   name: pod310
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4357,6 +4979,8 @@ kind: Pod
 metadata:
   name: pod311
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4371,6 +4995,8 @@ kind: Pod
 metadata:
   name: pod312
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4385,6 +5011,8 @@ kind: Pod
 metadata:
   name: pod313
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4399,6 +5027,8 @@ kind: Pod
 metadata:
   name: pod314
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4413,6 +5043,8 @@ kind: Pod
 metadata:
   name: pod315
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4427,6 +5059,8 @@ kind: Pod
 metadata:
   name: pod316
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4441,6 +5075,8 @@ kind: Pod
 metadata:
   name: pod317
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4455,6 +5091,8 @@ kind: Pod
 metadata:
   name: pod318
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4469,6 +5107,8 @@ kind: Pod
 metadata:
   name: pod319
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4483,6 +5123,8 @@ kind: Pod
 metadata:
   name: pod320
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4497,6 +5139,8 @@ kind: Pod
 metadata:
   name: pod321
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4511,6 +5155,8 @@ kind: Pod
 metadata:
   name: pod322
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4525,6 +5171,8 @@ kind: Pod
 metadata:
   name: pod323
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4539,6 +5187,8 @@ kind: Pod
 metadata:
   name: pod324
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4553,6 +5203,8 @@ kind: Pod
 metadata:
   name: pod325
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4567,6 +5219,8 @@ kind: Pod
 metadata:
   name: pod326
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4581,6 +5235,8 @@ kind: Pod
 metadata:
   name: pod327
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4595,6 +5251,8 @@ kind: Pod
 metadata:
   name: pod328
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4609,6 +5267,8 @@ kind: Pod
 metadata:
   name: pod329
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4623,6 +5283,8 @@ kind: Pod
 metadata:
   name: pod330
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4637,6 +5299,8 @@ kind: Pod
 metadata:
   name: pod331
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4651,6 +5315,8 @@ kind: Pod
 metadata:
   name: pod332
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4665,6 +5331,8 @@ kind: Pod
 metadata:
   name: pod333
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4679,6 +5347,8 @@ kind: Pod
 metadata:
   name: pod334
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4693,6 +5363,8 @@ kind: Pod
 metadata:
   name: pod335
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4707,6 +5379,8 @@ kind: Pod
 metadata:
   name: pod336
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4721,6 +5395,8 @@ kind: Pod
 metadata:
   name: pod337
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4735,6 +5411,8 @@ kind: Pod
 metadata:
   name: pod338
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4749,6 +5427,8 @@ kind: Pod
 metadata:
   name: pod339
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4763,6 +5443,8 @@ kind: Pod
 metadata:
   name: pod340
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4777,6 +5459,8 @@ kind: Pod
 metadata:
   name: pod341
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4791,6 +5475,8 @@ kind: Pod
 metadata:
   name: pod342
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4805,6 +5491,8 @@ kind: Pod
 metadata:
   name: pod343
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4819,6 +5507,8 @@ kind: Pod
 metadata:
   name: pod344
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4833,6 +5523,8 @@ kind: Pod
 metadata:
   name: pod345
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4847,6 +5539,8 @@ kind: Pod
 metadata:
   name: pod346
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4861,6 +5555,8 @@ kind: Pod
 metadata:
   name: pod347
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4875,6 +5571,8 @@ kind: Pod
 metadata:
   name: pod348
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4889,6 +5587,8 @@ kind: Pod
 metadata:
   name: pod349
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4903,6 +5603,8 @@ kind: Pod
 metadata:
   name: pod350
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4917,6 +5619,8 @@ kind: Pod
 metadata:
   name: pod351
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4931,6 +5635,8 @@ kind: Pod
 metadata:
   name: pod352
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4945,6 +5651,8 @@ kind: Pod
 metadata:
   name: pod353
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4959,6 +5667,8 @@ kind: Pod
 metadata:
   name: pod354
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4973,6 +5683,8 @@ kind: Pod
 metadata:
   name: pod355
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -4987,6 +5699,8 @@ kind: Pod
 metadata:
   name: pod356
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5001,6 +5715,8 @@ kind: Pod
 metadata:
   name: pod357
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5015,6 +5731,8 @@ kind: Pod
 metadata:
   name: pod358
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5029,6 +5747,8 @@ kind: Pod
 metadata:
   name: pod359
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5043,6 +5763,8 @@ kind: Pod
 metadata:
   name: pod360
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5057,6 +5779,8 @@ kind: Pod
 metadata:
   name: pod361
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5071,6 +5795,8 @@ kind: Pod
 metadata:
   name: pod362
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5085,6 +5811,8 @@ kind: Pod
 metadata:
   name: pod363
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5099,6 +5827,8 @@ kind: Pod
 metadata:
   name: pod364
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5113,6 +5843,8 @@ kind: Pod
 metadata:
   name: pod365
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5127,6 +5859,8 @@ kind: Pod
 metadata:
   name: pod366
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5141,6 +5875,8 @@ kind: Pod
 metadata:
   name: pod367
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5155,6 +5891,8 @@ kind: Pod
 metadata:
   name: pod368
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5169,6 +5907,8 @@ kind: Pod
 metadata:
   name: pod369
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5183,6 +5923,8 @@ kind: Pod
 metadata:
   name: pod370
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5197,6 +5939,8 @@ kind: Pod
 metadata:
   name: pod371
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5211,6 +5955,8 @@ kind: Pod
 metadata:
   name: pod372
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5225,6 +5971,8 @@ kind: Pod
 metadata:
   name: pod373
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5239,6 +5987,8 @@ kind: Pod
 metadata:
   name: pod374
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5253,6 +6003,8 @@ kind: Pod
 metadata:
   name: pod375
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5267,6 +6019,8 @@ kind: Pod
 metadata:
   name: pod376
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5281,6 +6035,8 @@ kind: Pod
 metadata:
   name: pod377
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5295,6 +6051,8 @@ kind: Pod
 metadata:
   name: pod378
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5309,6 +6067,8 @@ kind: Pod
 metadata:
   name: pod379
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5323,6 +6083,8 @@ kind: Pod
 metadata:
   name: pod380
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5337,6 +6099,8 @@ kind: Pod
 metadata:
   name: pod381
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5351,6 +6115,8 @@ kind: Pod
 metadata:
   name: pod382
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5365,6 +6131,8 @@ kind: Pod
 metadata:
   name: pod383
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5379,6 +6147,8 @@ kind: Pod
 metadata:
   name: pod384
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5393,6 +6163,8 @@ kind: Pod
 metadata:
   name: pod385
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5407,6 +6179,8 @@ kind: Pod
 metadata:
   name: pod386
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5421,6 +6195,8 @@ kind: Pod
 metadata:
   name: pod387
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5435,6 +6211,8 @@ kind: Pod
 metadata:
   name: pod388
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5449,6 +6227,8 @@ kind: Pod
 metadata:
   name: pod389
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5463,6 +6243,8 @@ kind: Pod
 metadata:
   name: pod390
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5477,6 +6259,8 @@ kind: Pod
 metadata:
   name: pod391
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5491,6 +6275,8 @@ kind: Pod
 metadata:
   name: pod392
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5505,6 +6291,8 @@ kind: Pod
 metadata:
   name: pod393
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5519,6 +6307,8 @@ kind: Pod
 metadata:
   name: pod394
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5533,6 +6323,8 @@ kind: Pod
 metadata:
   name: pod395
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5547,6 +6339,8 @@ kind: Pod
 metadata:
   name: pod396
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5561,6 +6355,8 @@ kind: Pod
 metadata:
   name: pod397
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5575,6 +6371,8 @@ kind: Pod
 metadata:
   name: pod398
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5589,6 +6387,8 @@ kind: Pod
 metadata:
   name: pod399
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5603,6 +6403,8 @@ kind: Pod
 metadata:
   name: pod400
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5617,6 +6419,8 @@ kind: Pod
 metadata:
   name: pod401
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5631,6 +6435,8 @@ kind: Pod
 metadata:
   name: pod402
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5645,6 +6451,8 @@ kind: Pod
 metadata:
   name: pod403
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5659,6 +6467,8 @@ kind: Pod
 metadata:
   name: pod404
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5673,6 +6483,8 @@ kind: Pod
 metadata:
   name: pod405
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5687,6 +6499,8 @@ kind: Pod
 metadata:
   name: pod406
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5701,6 +6515,8 @@ kind: Pod
 metadata:
   name: pod407
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5715,6 +6531,8 @@ kind: Pod
 metadata:
   name: pod408
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5729,6 +6547,8 @@ kind: Pod
 metadata:
   name: pod409
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5743,6 +6563,8 @@ kind: Pod
 metadata:
   name: pod410
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5757,6 +6579,8 @@ kind: Pod
 metadata:
   name: pod411
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5771,6 +6595,8 @@ kind: Pod
 metadata:
   name: pod412
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5785,6 +6611,8 @@ kind: Pod
 metadata:
   name: pod413
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5799,6 +6627,8 @@ kind: Pod
 metadata:
   name: pod414
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5813,6 +6643,8 @@ kind: Pod
 metadata:
   name: pod415
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5827,6 +6659,8 @@ kind: Pod
 metadata:
   name: pod416
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5841,6 +6675,8 @@ kind: Pod
 metadata:
   name: pod417
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5855,6 +6691,8 @@ kind: Pod
 metadata:
   name: pod418
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5869,6 +6707,8 @@ kind: Pod
 metadata:
   name: pod419
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5883,6 +6723,8 @@ kind: Pod
 metadata:
   name: pod420
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5897,6 +6739,8 @@ kind: Pod
 metadata:
   name: pod421
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5911,6 +6755,8 @@ kind: Pod
 metadata:
   name: pod422
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5925,6 +6771,8 @@ kind: Pod
 metadata:
   name: pod423
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5939,6 +6787,8 @@ kind: Pod
 metadata:
   name: pod424
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5953,6 +6803,8 @@ kind: Pod
 metadata:
   name: pod425
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5967,6 +6819,8 @@ kind: Pod
 metadata:
   name: pod426
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5981,6 +6835,8 @@ kind: Pod
 metadata:
   name: pod427
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -5995,6 +6851,8 @@ kind: Pod
 metadata:
   name: pod428
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6009,6 +6867,8 @@ kind: Pod
 metadata:
   name: pod429
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6023,6 +6883,8 @@ kind: Pod
 metadata:
   name: pod430
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6037,6 +6899,8 @@ kind: Pod
 metadata:
   name: pod431
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6051,6 +6915,8 @@ kind: Pod
 metadata:
   name: pod432
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6065,6 +6931,8 @@ kind: Pod
 metadata:
   name: pod433
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6079,6 +6947,8 @@ kind: Pod
 metadata:
   name: pod434
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6093,6 +6963,8 @@ kind: Pod
 metadata:
   name: pod435
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6107,6 +6979,8 @@ kind: Pod
 metadata:
   name: pod436
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6121,6 +6995,8 @@ kind: Pod
 metadata:
   name: pod437
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6135,6 +7011,8 @@ kind: Pod
 metadata:
   name: pod438
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6149,6 +7027,8 @@ kind: Pod
 metadata:
   name: pod439
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6163,6 +7043,8 @@ kind: Pod
 metadata:
   name: pod440
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6177,6 +7059,8 @@ kind: Pod
 metadata:
   name: pod441
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6191,6 +7075,8 @@ kind: Pod
 metadata:
   name: pod442
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6205,6 +7091,8 @@ kind: Pod
 metadata:
   name: pod443
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6219,6 +7107,8 @@ kind: Pod
 metadata:
   name: pod444
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6233,6 +7123,8 @@ kind: Pod
 metadata:
   name: pod445
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6247,6 +7139,8 @@ kind: Pod
 metadata:
   name: pod446
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6261,6 +7155,8 @@ kind: Pod
 metadata:
   name: pod447
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6275,6 +7171,8 @@ kind: Pod
 metadata:
   name: pod448
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6289,6 +7187,8 @@ kind: Pod
 metadata:
   name: pod449
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6303,6 +7203,8 @@ kind: Pod
 metadata:
   name: pod450
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6317,6 +7219,8 @@ kind: Pod
 metadata:
   name: pod451
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6331,6 +7235,8 @@ kind: Pod
 metadata:
   name: pod452
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6345,6 +7251,8 @@ kind: Pod
 metadata:
   name: pod453
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6359,6 +7267,8 @@ kind: Pod
 metadata:
   name: pod454
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6373,6 +7283,8 @@ kind: Pod
 metadata:
   name: pod455
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6387,6 +7299,8 @@ kind: Pod
 metadata:
   name: pod456
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6401,6 +7315,8 @@ kind: Pod
 metadata:
   name: pod457
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6415,6 +7331,8 @@ kind: Pod
 metadata:
   name: pod458
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6429,6 +7347,8 @@ kind: Pod
 metadata:
   name: pod459
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6443,6 +7363,8 @@ kind: Pod
 metadata:
   name: pod460
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6457,6 +7379,8 @@ kind: Pod
 metadata:
   name: pod461
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6471,6 +7395,8 @@ kind: Pod
 metadata:
   name: pod462
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6485,6 +7411,8 @@ kind: Pod
 metadata:
   name: pod463
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6499,6 +7427,8 @@ kind: Pod
 metadata:
   name: pod464
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6513,6 +7443,8 @@ kind: Pod
 metadata:
   name: pod465
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6527,6 +7459,8 @@ kind: Pod
 metadata:
   name: pod466
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6541,6 +7475,8 @@ kind: Pod
 metadata:
   name: pod467
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6555,6 +7491,8 @@ kind: Pod
 metadata:
   name: pod468
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6569,6 +7507,8 @@ kind: Pod
 metadata:
   name: pod469
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6583,6 +7523,8 @@ kind: Pod
 metadata:
   name: pod470
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6597,6 +7539,8 @@ kind: Pod
 metadata:
   name: pod471
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6611,6 +7555,8 @@ kind: Pod
 metadata:
   name: pod472
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6625,6 +7571,8 @@ kind: Pod
 metadata:
   name: pod473
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6639,6 +7587,8 @@ kind: Pod
 metadata:
   name: pod474
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6653,6 +7603,8 @@ kind: Pod
 metadata:
   name: pod475
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6667,6 +7619,8 @@ kind: Pod
 metadata:
   name: pod476
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6681,6 +7635,8 @@ kind: Pod
 metadata:
   name: pod477
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6695,6 +7651,8 @@ kind: Pod
 metadata:
   name: pod478
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6709,6 +7667,8 @@ kind: Pod
 metadata:
   name: pod479
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6723,6 +7683,8 @@ kind: Pod
 metadata:
   name: pod480
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6737,6 +7699,8 @@ kind: Pod
 metadata:
   name: pod481
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6751,6 +7715,8 @@ kind: Pod
 metadata:
   name: pod482
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6765,6 +7731,8 @@ kind: Pod
 metadata:
   name: pod483
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6779,6 +7747,8 @@ kind: Pod
 metadata:
   name: pod484
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6793,6 +7763,8 @@ kind: Pod
 metadata:
   name: pod485
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6807,6 +7779,8 @@ kind: Pod
 metadata:
   name: pod486
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6821,6 +7795,8 @@ kind: Pod
 metadata:
   name: pod487
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6835,6 +7811,8 @@ kind: Pod
 metadata:
   name: pod488
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6849,6 +7827,8 @@ kind: Pod
 metadata:
   name: pod489
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6863,6 +7843,8 @@ kind: Pod
 metadata:
   name: pod490
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6877,6 +7859,8 @@ kind: Pod
 metadata:
   name: pod491
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6891,6 +7875,8 @@ kind: Pod
 metadata:
   name: pod492
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6905,6 +7891,8 @@ kind: Pod
 metadata:
   name: pod493
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6919,6 +7907,8 @@ kind: Pod
 metadata:
   name: pod494
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6933,6 +7923,8 @@ kind: Pod
 metadata:
   name: pod495
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6947,6 +7939,8 @@ kind: Pod
 metadata:
   name: pod496
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6961,6 +7955,8 @@ kind: Pod
 metadata:
   name: pod497
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6975,6 +7971,8 @@ kind: Pod
 metadata:
   name: pod498
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -6989,6 +7987,8 @@ kind: Pod
 metadata:
   name: pod499
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7003,6 +8003,8 @@ kind: Pod
 metadata:
   name: pod500
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7017,6 +8019,8 @@ kind: Pod
 metadata:
   name: pod501
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7031,6 +8035,8 @@ kind: Pod
 metadata:
   name: pod502
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7045,6 +8051,8 @@ kind: Pod
 metadata:
   name: pod503
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7059,6 +8067,8 @@ kind: Pod
 metadata:
   name: pod504
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7073,6 +8083,8 @@ kind: Pod
 metadata:
   name: pod505
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7087,6 +8099,8 @@ kind: Pod
 metadata:
   name: pod506
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7101,6 +8115,8 @@ kind: Pod
 metadata:
   name: pod507
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7115,6 +8131,8 @@ kind: Pod
 metadata:
   name: pod508
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7129,6 +8147,8 @@ kind: Pod
 metadata:
   name: pod509
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7143,6 +8163,8 @@ kind: Pod
 metadata:
   name: pod510
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7157,6 +8179,8 @@ kind: Pod
 metadata:
   name: pod511
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7171,6 +8195,8 @@ kind: Pod
 metadata:
   name: pod512
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7185,6 +8211,8 @@ kind: Pod
 metadata:
   name: pod513
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7199,6 +8227,8 @@ kind: Pod
 metadata:
   name: pod514
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7213,6 +8243,8 @@ kind: Pod
 metadata:
   name: pod515
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7227,6 +8259,8 @@ kind: Pod
 metadata:
   name: pod516
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7241,6 +8275,8 @@ kind: Pod
 metadata:
   name: pod517
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7255,6 +8291,8 @@ kind: Pod
 metadata:
   name: pod518
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7269,6 +8307,8 @@ kind: Pod
 metadata:
   name: pod519
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7283,6 +8323,8 @@ kind: Pod
 metadata:
   name: pod520
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7297,6 +8339,8 @@ kind: Pod
 metadata:
   name: pod521
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7311,6 +8355,8 @@ kind: Pod
 metadata:
   name: pod522
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7325,6 +8371,8 @@ kind: Pod
 metadata:
   name: pod523
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7339,6 +8387,8 @@ kind: Pod
 metadata:
   name: pod524
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7353,6 +8403,8 @@ kind: Pod
 metadata:
   name: pod525
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7367,6 +8419,8 @@ kind: Pod
 metadata:
   name: pod526
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7381,6 +8435,8 @@ kind: Pod
 metadata:
   name: pod527
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7395,6 +8451,8 @@ kind: Pod
 metadata:
   name: pod528
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7409,6 +8467,8 @@ kind: Pod
 metadata:
   name: pod529
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7423,6 +8483,8 @@ kind: Pod
 metadata:
   name: pod530
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7437,6 +8499,8 @@ kind: Pod
 metadata:
   name: pod531
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7451,6 +8515,8 @@ kind: Pod
 metadata:
   name: pod532
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7465,6 +8531,8 @@ kind: Pod
 metadata:
   name: pod533
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7479,6 +8547,8 @@ kind: Pod
 metadata:
   name: pod534
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7493,6 +8563,8 @@ kind: Pod
 metadata:
   name: pod535
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7507,6 +8579,8 @@ kind: Pod
 metadata:
   name: pod536
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7521,6 +8595,8 @@ kind: Pod
 metadata:
   name: pod537
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7535,6 +8611,8 @@ kind: Pod
 metadata:
   name: pod538
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7549,6 +8627,8 @@ kind: Pod
 metadata:
   name: pod539
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7563,6 +8643,8 @@ kind: Pod
 metadata:
   name: pod540
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7577,6 +8659,8 @@ kind: Pod
 metadata:
   name: pod541
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7591,6 +8675,8 @@ kind: Pod
 metadata:
   name: pod542
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7605,6 +8691,8 @@ kind: Pod
 metadata:
   name: pod543
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7619,6 +8707,8 @@ kind: Pod
 metadata:
   name: pod544
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7633,6 +8723,8 @@ kind: Pod
 metadata:
   name: pod545
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7647,6 +8739,8 @@ kind: Pod
 metadata:
   name: pod546
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7661,6 +8755,8 @@ kind: Pod
 metadata:
   name: pod547
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7675,6 +8771,8 @@ kind: Pod
 metadata:
   name: pod548
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7689,6 +8787,8 @@ kind: Pod
 metadata:
   name: pod549
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7703,6 +8803,8 @@ kind: Pod
 metadata:
   name: pod550
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7717,6 +8819,8 @@ kind: Pod
 metadata:
   name: pod551
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7731,6 +8835,8 @@ kind: Pod
 metadata:
   name: pod552
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7745,6 +8851,8 @@ kind: Pod
 metadata:
   name: pod553
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7759,6 +8867,8 @@ kind: Pod
 metadata:
   name: pod554
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7773,6 +8883,8 @@ kind: Pod
 metadata:
   name: pod555
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7787,6 +8899,8 @@ kind: Pod
 metadata:
   name: pod556
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7801,6 +8915,8 @@ kind: Pod
 metadata:
   name: pod557
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7815,6 +8931,8 @@ kind: Pod
 metadata:
   name: pod558
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7829,6 +8947,8 @@ kind: Pod
 metadata:
   name: pod559
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7843,6 +8963,8 @@ kind: Pod
 metadata:
   name: pod560
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7857,6 +8979,8 @@ kind: Pod
 metadata:
   name: pod561
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7871,6 +8995,8 @@ kind: Pod
 metadata:
   name: pod562
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7885,6 +9011,8 @@ kind: Pod
 metadata:
   name: pod563
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7899,6 +9027,8 @@ kind: Pod
 metadata:
   name: pod564
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7913,6 +9043,8 @@ kind: Pod
 metadata:
   name: pod565
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7927,6 +9059,8 @@ kind: Pod
 metadata:
   name: pod566
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7941,6 +9075,8 @@ kind: Pod
 metadata:
   name: pod567
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7955,6 +9091,8 @@ kind: Pod
 metadata:
   name: pod568
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7969,6 +9107,8 @@ kind: Pod
 metadata:
   name: pod569
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7983,6 +9123,8 @@ kind: Pod
 metadata:
   name: pod570
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -7997,6 +9139,8 @@ kind: Pod
 metadata:
   name: pod571
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8011,6 +9155,8 @@ kind: Pod
 metadata:
   name: pod572
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8025,6 +9171,8 @@ kind: Pod
 metadata:
   name: pod573
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8039,6 +9187,8 @@ kind: Pod
 metadata:
   name: pod574
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8053,6 +9203,8 @@ kind: Pod
 metadata:
   name: pod575
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8067,6 +9219,8 @@ kind: Pod
 metadata:
   name: pod576
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8081,6 +9235,8 @@ kind: Pod
 metadata:
   name: pod577
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8095,6 +9251,8 @@ kind: Pod
 metadata:
   name: pod578
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8109,6 +9267,8 @@ kind: Pod
 metadata:
   name: pod579
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8123,6 +9283,8 @@ kind: Pod
 metadata:
   name: pod580
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8137,6 +9299,8 @@ kind: Pod
 metadata:
   name: pod581
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8151,6 +9315,8 @@ kind: Pod
 metadata:
   name: pod582
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8165,6 +9331,8 @@ kind: Pod
 metadata:
   name: pod583
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8179,6 +9347,8 @@ kind: Pod
 metadata:
   name: pod584
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8193,6 +9363,8 @@ kind: Pod
 metadata:
   name: pod585
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8207,6 +9379,8 @@ kind: Pod
 metadata:
   name: pod586
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8221,6 +9395,8 @@ kind: Pod
 metadata:
   name: pod587
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8235,6 +9411,8 @@ kind: Pod
 metadata:
   name: pod588
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8249,6 +9427,8 @@ kind: Pod
 metadata:
   name: pod589
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8263,6 +9443,8 @@ kind: Pod
 metadata:
   name: pod590
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8277,6 +9459,8 @@ kind: Pod
 metadata:
   name: pod591
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8291,6 +9475,8 @@ kind: Pod
 metadata:
   name: pod592
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8305,6 +9491,8 @@ kind: Pod
 metadata:
   name: pod593
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8319,6 +9507,8 @@ kind: Pod
 metadata:
   name: pod594
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8333,6 +9523,8 @@ kind: Pod
 metadata:
   name: pod595
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8347,6 +9539,8 @@ kind: Pod
 metadata:
   name: pod596
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8361,6 +9555,8 @@ kind: Pod
 metadata:
   name: pod597
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8375,6 +9571,8 @@ kind: Pod
 metadata:
   name: pod598
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8389,6 +9587,8 @@ kind: Pod
 metadata:
   name: pod599
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8403,6 +9603,8 @@ kind: Pod
 metadata:
   name: pod600
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8417,6 +9619,8 @@ kind: Pod
 metadata:
   name: pod601
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8431,6 +9635,8 @@ kind: Pod
 metadata:
   name: pod602
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8445,6 +9651,8 @@ kind: Pod
 metadata:
   name: pod603
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8459,6 +9667,8 @@ kind: Pod
 metadata:
   name: pod604
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8473,6 +9683,8 @@ kind: Pod
 metadata:
   name: pod605
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8487,6 +9699,8 @@ kind: Pod
 metadata:
   name: pod606
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8501,6 +9715,8 @@ kind: Pod
 metadata:
   name: pod607
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8515,6 +9731,8 @@ kind: Pod
 metadata:
   name: pod608
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8529,6 +9747,8 @@ kind: Pod
 metadata:
   name: pod609
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8543,6 +9763,8 @@ kind: Pod
 metadata:
   name: pod610
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8557,6 +9779,8 @@ kind: Pod
 metadata:
   name: pod611
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8571,6 +9795,8 @@ kind: Pod
 metadata:
   name: pod612
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8585,6 +9811,8 @@ kind: Pod
 metadata:
   name: pod613
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8599,6 +9827,8 @@ kind: Pod
 metadata:
   name: pod614
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8613,6 +9843,8 @@ kind: Pod
 metadata:
   name: pod615
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8627,6 +9859,8 @@ kind: Pod
 metadata:
   name: pod616
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8641,6 +9875,8 @@ kind: Pod
 metadata:
   name: pod617
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8655,6 +9891,8 @@ kind: Pod
 metadata:
   name: pod618
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8669,6 +9907,8 @@ kind: Pod
 metadata:
   name: pod619
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8683,6 +9923,8 @@ kind: Pod
 metadata:
   name: pod620
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8697,6 +9939,8 @@ kind: Pod
 metadata:
   name: pod621
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8711,6 +9955,8 @@ kind: Pod
 metadata:
   name: pod622
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8725,6 +9971,8 @@ kind: Pod
 metadata:
   name: pod623
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8739,6 +9987,8 @@ kind: Pod
 metadata:
   name: pod624
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8753,6 +10003,8 @@ kind: Pod
 metadata:
   name: pod625
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8767,6 +10019,8 @@ kind: Pod
 metadata:
   name: pod626
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8781,6 +10035,8 @@ kind: Pod
 metadata:
   name: pod627
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8795,6 +10051,8 @@ kind: Pod
 metadata:
   name: pod628
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8809,6 +10067,8 @@ kind: Pod
 metadata:
   name: pod629
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8823,6 +10083,8 @@ kind: Pod
 metadata:
   name: pod630
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8837,6 +10099,8 @@ kind: Pod
 metadata:
   name: pod631
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8851,6 +10115,8 @@ kind: Pod
 metadata:
   name: pod632
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8865,6 +10131,8 @@ kind: Pod
 metadata:
   name: pod633
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8879,6 +10147,8 @@ kind: Pod
 metadata:
   name: pod634
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8893,6 +10163,8 @@ kind: Pod
 metadata:
   name: pod635
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8907,6 +10179,8 @@ kind: Pod
 metadata:
   name: pod636
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8921,6 +10195,8 @@ kind: Pod
 metadata:
   name: pod637
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8935,6 +10211,8 @@ kind: Pod
 metadata:
   name: pod638
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8949,6 +10227,8 @@ kind: Pod
 metadata:
   name: pod639
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8963,6 +10243,8 @@ kind: Pod
 metadata:
   name: pod640
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8977,6 +10259,8 @@ kind: Pod
 metadata:
   name: pod641
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -8991,6 +10275,8 @@ kind: Pod
 metadata:
   name: pod642
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9005,6 +10291,8 @@ kind: Pod
 metadata:
   name: pod643
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9019,6 +10307,8 @@ kind: Pod
 metadata:
   name: pod644
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9033,6 +10323,8 @@ kind: Pod
 metadata:
   name: pod645
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9047,6 +10339,8 @@ kind: Pod
 metadata:
   name: pod646
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9061,6 +10355,8 @@ kind: Pod
 metadata:
   name: pod647
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9075,6 +10371,8 @@ kind: Pod
 metadata:
   name: pod648
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9089,6 +10387,8 @@ kind: Pod
 metadata:
   name: pod649
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9103,6 +10403,8 @@ kind: Pod
 metadata:
   name: pod650
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9117,6 +10419,8 @@ kind: Pod
 metadata:
   name: pod651
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9131,6 +10435,8 @@ kind: Pod
 metadata:
   name: pod652
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9145,6 +10451,8 @@ kind: Pod
 metadata:
   name: pod653
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9159,6 +10467,8 @@ kind: Pod
 metadata:
   name: pod654
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9173,6 +10483,8 @@ kind: Pod
 metadata:
   name: pod655
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9187,6 +10499,8 @@ kind: Pod
 metadata:
   name: pod656
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9201,6 +10515,8 @@ kind: Pod
 metadata:
   name: pod657
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9215,6 +10531,8 @@ kind: Pod
 metadata:
   name: pod658
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9229,6 +10547,8 @@ kind: Pod
 metadata:
   name: pod659
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9243,6 +10563,8 @@ kind: Pod
 metadata:
   name: pod660
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9257,6 +10579,8 @@ kind: Pod
 metadata:
   name: pod661
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9271,6 +10595,8 @@ kind: Pod
 metadata:
   name: pod662
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9285,6 +10611,8 @@ kind: Pod
 metadata:
   name: pod663
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9299,6 +10627,8 @@ kind: Pod
 metadata:
   name: pod664
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9313,6 +10643,8 @@ kind: Pod
 metadata:
   name: pod665
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9327,6 +10659,8 @@ kind: Pod
 metadata:
   name: pod666
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9341,6 +10675,8 @@ kind: Pod
 metadata:
   name: pod667
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9355,6 +10691,8 @@ kind: Pod
 metadata:
   name: pod668
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9369,6 +10707,8 @@ kind: Pod
 metadata:
   name: pod669
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9383,6 +10723,8 @@ kind: Pod
 metadata:
   name: pod670
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9397,6 +10739,8 @@ kind: Pod
 metadata:
   name: pod671
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9411,6 +10755,8 @@ kind: Pod
 metadata:
   name: pod672
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9425,6 +10771,8 @@ kind: Pod
 metadata:
   name: pod673
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9439,6 +10787,8 @@ kind: Pod
 metadata:
   name: pod674
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9453,6 +10803,8 @@ kind: Pod
 metadata:
   name: pod675
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9467,6 +10819,8 @@ kind: Pod
 metadata:
   name: pod676
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9481,6 +10835,8 @@ kind: Pod
 metadata:
   name: pod677
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9495,6 +10851,8 @@ kind: Pod
 metadata:
   name: pod678
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9509,6 +10867,8 @@ kind: Pod
 metadata:
   name: pod679
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9523,6 +10883,8 @@ kind: Pod
 metadata:
   name: pod680
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9537,6 +10899,8 @@ kind: Pod
 metadata:
   name: pod681
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9551,6 +10915,8 @@ kind: Pod
 metadata:
   name: pod682
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9565,6 +10931,8 @@ kind: Pod
 metadata:
   name: pod683
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9579,6 +10947,8 @@ kind: Pod
 metadata:
   name: pod684
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9593,6 +10963,8 @@ kind: Pod
 metadata:
   name: pod685
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9607,6 +10979,8 @@ kind: Pod
 metadata:
   name: pod686
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9621,6 +10995,8 @@ kind: Pod
 metadata:
   name: pod687
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9635,6 +11011,8 @@ kind: Pod
 metadata:
   name: pod688
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9649,6 +11027,8 @@ kind: Pod
 metadata:
   name: pod689
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9663,6 +11043,8 @@ kind: Pod
 metadata:
   name: pod690
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9677,6 +11059,8 @@ kind: Pod
 metadata:
   name: pod691
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9691,6 +11075,8 @@ kind: Pod
 metadata:
   name: pod692
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9705,6 +11091,8 @@ kind: Pod
 metadata:
   name: pod693
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9719,6 +11107,8 @@ kind: Pod
 metadata:
   name: pod694
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9733,6 +11123,8 @@ kind: Pod
 metadata:
   name: pod695
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9747,6 +11139,8 @@ kind: Pod
 metadata:
   name: pod696
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9761,6 +11155,8 @@ kind: Pod
 metadata:
   name: pod697
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9775,6 +11171,8 @@ kind: Pod
 metadata:
   name: pod698
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9789,6 +11187,8 @@ kind: Pod
 metadata:
   name: pod699
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9803,6 +11203,8 @@ kind: Pod
 metadata:
   name: pod700
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9817,6 +11219,8 @@ kind: Pod
 metadata:
   name: pod701
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9831,6 +11235,8 @@ kind: Pod
 metadata:
   name: pod702
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9845,6 +11251,8 @@ kind: Pod
 metadata:
   name: pod703
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9859,6 +11267,8 @@ kind: Pod
 metadata:
   name: pod704
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9873,6 +11283,8 @@ kind: Pod
 metadata:
   name: pod705
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9887,6 +11299,8 @@ kind: Pod
 metadata:
   name: pod706
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9901,6 +11315,8 @@ kind: Pod
 metadata:
   name: pod707
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9915,6 +11331,8 @@ kind: Pod
 metadata:
   name: pod708
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9929,6 +11347,8 @@ kind: Pod
 metadata:
   name: pod709
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9943,6 +11363,8 @@ kind: Pod
 metadata:
   name: pod710
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9957,6 +11379,8 @@ kind: Pod
 metadata:
   name: pod711
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9971,6 +11395,8 @@ kind: Pod
 metadata:
   name: pod712
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9985,6 +11411,8 @@ kind: Pod
 metadata:
   name: pod713
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -9999,6 +11427,8 @@ kind: Pod
 metadata:
   name: pod714
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10013,6 +11443,8 @@ kind: Pod
 metadata:
   name: pod715
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10027,6 +11459,8 @@ kind: Pod
 metadata:
   name: pod716
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10041,6 +11475,8 @@ kind: Pod
 metadata:
   name: pod717
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10055,6 +11491,8 @@ kind: Pod
 metadata:
   name: pod718
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10069,6 +11507,8 @@ kind: Pod
 metadata:
   name: pod719
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10083,6 +11523,8 @@ kind: Pod
 metadata:
   name: pod720
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10097,6 +11539,8 @@ kind: Pod
 metadata:
   name: pod721
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10111,6 +11555,8 @@ kind: Pod
 metadata:
   name: pod722
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10125,6 +11571,8 @@ kind: Pod
 metadata:
   name: pod723
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10139,6 +11587,8 @@ kind: Pod
 metadata:
   name: pod724
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10153,6 +11603,8 @@ kind: Pod
 metadata:
   name: pod725
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10167,6 +11619,8 @@ kind: Pod
 metadata:
   name: pod726
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10181,6 +11635,8 @@ kind: Pod
 metadata:
   name: pod727
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10195,6 +11651,8 @@ kind: Pod
 metadata:
   name: pod728
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10209,6 +11667,8 @@ kind: Pod
 metadata:
   name: pod729
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10223,6 +11683,8 @@ kind: Pod
 metadata:
   name: pod730
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10237,6 +11699,8 @@ kind: Pod
 metadata:
   name: pod731
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10251,6 +11715,8 @@ kind: Pod
 metadata:
   name: pod732
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10265,6 +11731,8 @@ kind: Pod
 metadata:
   name: pod733
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10279,6 +11747,8 @@ kind: Pod
 metadata:
   name: pod734
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10293,6 +11763,8 @@ kind: Pod
 metadata:
   name: pod735
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10307,6 +11779,8 @@ kind: Pod
 metadata:
   name: pod736
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10321,6 +11795,8 @@ kind: Pod
 metadata:
   name: pod737
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10335,6 +11811,8 @@ kind: Pod
 metadata:
   name: pod738
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10349,6 +11827,8 @@ kind: Pod
 metadata:
   name: pod739
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10363,6 +11843,8 @@ kind: Pod
 metadata:
   name: pod740
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10377,6 +11859,8 @@ kind: Pod
 metadata:
   name: pod741
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10391,6 +11875,8 @@ kind: Pod
 metadata:
   name: pod742
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10405,6 +11891,8 @@ kind: Pod
 metadata:
   name: pod743
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10419,6 +11907,8 @@ kind: Pod
 metadata:
   name: pod744
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10433,6 +11923,8 @@ kind: Pod
 metadata:
   name: pod745
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10447,6 +11939,8 @@ kind: Pod
 metadata:
   name: pod746
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10461,6 +11955,8 @@ kind: Pod
 metadata:
   name: pod747
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10475,6 +11971,8 @@ kind: Pod
 metadata:
   name: pod748
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10489,6 +11987,8 @@ kind: Pod
 metadata:
   name: pod749
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10503,6 +12003,8 @@ kind: Pod
 metadata:
   name: pod750
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10517,6 +12019,8 @@ kind: Pod
 metadata:
   name: pod751
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10531,6 +12035,8 @@ kind: Pod
 metadata:
   name: pod752
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10545,6 +12051,8 @@ kind: Pod
 metadata:
   name: pod753
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10559,6 +12067,8 @@ kind: Pod
 metadata:
   name: pod754
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10573,6 +12083,8 @@ kind: Pod
 metadata:
   name: pod755
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10587,6 +12099,8 @@ kind: Pod
 metadata:
   name: pod756
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10601,6 +12115,8 @@ kind: Pod
 metadata:
   name: pod757
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10615,6 +12131,8 @@ kind: Pod
 metadata:
   name: pod758
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10629,6 +12147,8 @@ kind: Pod
 metadata:
   name: pod759
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10643,6 +12163,8 @@ kind: Pod
 metadata:
   name: pod760
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10657,6 +12179,8 @@ kind: Pod
 metadata:
   name: pod761
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10671,6 +12195,8 @@ kind: Pod
 metadata:
   name: pod762
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10685,6 +12211,8 @@ kind: Pod
 metadata:
   name: pod763
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10699,6 +12227,8 @@ kind: Pod
 metadata:
   name: pod764
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10713,6 +12243,8 @@ kind: Pod
 metadata:
   name: pod765
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10727,6 +12259,8 @@ kind: Pod
 metadata:
   name: pod766
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10741,6 +12275,8 @@ kind: Pod
 metadata:
   name: pod767
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10755,6 +12291,8 @@ kind: Pod
 metadata:
   name: pod768
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10769,6 +12307,8 @@ kind: Pod
 metadata:
   name: pod769
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10783,6 +12323,8 @@ kind: Pod
 metadata:
   name: pod770
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10797,6 +12339,8 @@ kind: Pod
 metadata:
   name: pod771
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10811,6 +12355,8 @@ kind: Pod
 metadata:
   name: pod772
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10825,6 +12371,8 @@ kind: Pod
 metadata:
   name: pod773
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10839,6 +12387,8 @@ kind: Pod
 metadata:
   name: pod774
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10853,6 +12403,8 @@ kind: Pod
 metadata:
   name: pod775
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10867,6 +12419,8 @@ kind: Pod
 metadata:
   name: pod776
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10881,6 +12435,8 @@ kind: Pod
 metadata:
   name: pod777
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10895,6 +12451,8 @@ kind: Pod
 metadata:
   name: pod778
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10909,6 +12467,8 @@ kind: Pod
 metadata:
   name: pod779
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10923,6 +12483,8 @@ kind: Pod
 metadata:
   name: pod780
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10937,6 +12499,8 @@ kind: Pod
 metadata:
   name: pod781
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10951,6 +12515,8 @@ kind: Pod
 metadata:
   name: pod782
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10965,6 +12531,8 @@ kind: Pod
 metadata:
   name: pod783
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10979,6 +12547,8 @@ kind: Pod
 metadata:
   name: pod784
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -10993,6 +12563,8 @@ kind: Pod
 metadata:
   name: pod785
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11007,6 +12579,8 @@ kind: Pod
 metadata:
   name: pod786
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11021,6 +12595,8 @@ kind: Pod
 metadata:
   name: pod787
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11035,6 +12611,8 @@ kind: Pod
 metadata:
   name: pod788
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11049,6 +12627,8 @@ kind: Pod
 metadata:
   name: pod789
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11063,6 +12643,8 @@ kind: Pod
 metadata:
   name: pod790
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11077,6 +12659,8 @@ kind: Pod
 metadata:
   name: pod791
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11091,6 +12675,8 @@ kind: Pod
 metadata:
   name: pod792
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11105,6 +12691,8 @@ kind: Pod
 metadata:
   name: pod793
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11119,6 +12707,8 @@ kind: Pod
 metadata:
   name: pod794
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11133,6 +12723,8 @@ kind: Pod
 metadata:
   name: pod795
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11147,6 +12739,8 @@ kind: Pod
 metadata:
   name: pod796
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11161,6 +12755,8 @@ kind: Pod
 metadata:
   name: pod797
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11175,6 +12771,8 @@ kind: Pod
 metadata:
   name: pod798
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11189,6 +12787,8 @@ kind: Pod
 metadata:
   name: pod799
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11203,6 +12803,8 @@ kind: Pod
 metadata:
   name: pod800
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11217,6 +12819,8 @@ kind: Pod
 metadata:
   name: pod801
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11231,6 +12835,8 @@ kind: Pod
 metadata:
   name: pod802
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11245,6 +12851,8 @@ kind: Pod
 metadata:
   name: pod803
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11259,6 +12867,8 @@ kind: Pod
 metadata:
   name: pod804
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11273,6 +12883,8 @@ kind: Pod
 metadata:
   name: pod805
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11287,6 +12899,8 @@ kind: Pod
 metadata:
   name: pod806
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11301,6 +12915,8 @@ kind: Pod
 metadata:
   name: pod807
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11315,6 +12931,8 @@ kind: Pod
 metadata:
   name: pod808
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11329,6 +12947,8 @@ kind: Pod
 metadata:
   name: pod809
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11343,6 +12963,8 @@ kind: Pod
 metadata:
   name: pod810
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11357,6 +12979,8 @@ kind: Pod
 metadata:
   name: pod811
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11371,6 +12995,8 @@ kind: Pod
 metadata:
   name: pod812
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11385,6 +13011,8 @@ kind: Pod
 metadata:
   name: pod813
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11399,6 +13027,8 @@ kind: Pod
 metadata:
   name: pod814
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11413,6 +13043,8 @@ kind: Pod
 metadata:
   name: pod815
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11427,6 +13059,8 @@ kind: Pod
 metadata:
   name: pod816
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11441,6 +13075,8 @@ kind: Pod
 metadata:
   name: pod817
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11455,6 +13091,8 @@ kind: Pod
 metadata:
   name: pod818
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11469,6 +13107,8 @@ kind: Pod
 metadata:
   name: pod819
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11483,6 +13123,8 @@ kind: Pod
 metadata:
   name: pod820
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11497,6 +13139,8 @@ kind: Pod
 metadata:
   name: pod821
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11511,6 +13155,8 @@ kind: Pod
 metadata:
   name: pod822
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11525,6 +13171,8 @@ kind: Pod
 metadata:
   name: pod823
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11539,6 +13187,8 @@ kind: Pod
 metadata:
   name: pod824
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11553,6 +13203,8 @@ kind: Pod
 metadata:
   name: pod825
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11567,6 +13219,8 @@ kind: Pod
 metadata:
   name: pod826
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11581,6 +13235,8 @@ kind: Pod
 metadata:
   name: pod827
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11595,6 +13251,8 @@ kind: Pod
 metadata:
   name: pod828
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11609,6 +13267,8 @@ kind: Pod
 metadata:
   name: pod829
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11623,6 +13283,8 @@ kind: Pod
 metadata:
   name: pod830
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11637,6 +13299,8 @@ kind: Pod
 metadata:
   name: pod831
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11651,6 +13315,8 @@ kind: Pod
 metadata:
   name: pod832
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11665,6 +13331,8 @@ kind: Pod
 metadata:
   name: pod833
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11679,6 +13347,8 @@ kind: Pod
 metadata:
   name: pod834
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11693,6 +13363,8 @@ kind: Pod
 metadata:
   name: pod835
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11707,6 +13379,8 @@ kind: Pod
 metadata:
   name: pod836
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11721,6 +13395,8 @@ kind: Pod
 metadata:
   name: pod837
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11735,6 +13411,8 @@ kind: Pod
 metadata:
   name: pod838
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11749,6 +13427,8 @@ kind: Pod
 metadata:
   name: pod839
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11763,6 +13443,8 @@ kind: Pod
 metadata:
   name: pod840
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11777,6 +13459,8 @@ kind: Pod
 metadata:
   name: pod841
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11791,6 +13475,8 @@ kind: Pod
 metadata:
   name: pod842
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11805,6 +13491,8 @@ kind: Pod
 metadata:
   name: pod843
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11819,6 +13507,8 @@ kind: Pod
 metadata:
   name: pod844
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11833,6 +13523,8 @@ kind: Pod
 metadata:
   name: pod845
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11847,6 +13539,8 @@ kind: Pod
 metadata:
   name: pod846
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11861,6 +13555,8 @@ kind: Pod
 metadata:
   name: pod847
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11875,6 +13571,8 @@ kind: Pod
 metadata:
   name: pod848
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11889,6 +13587,8 @@ kind: Pod
 metadata:
   name: pod849
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11903,6 +13603,8 @@ kind: Pod
 metadata:
   name: pod850
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11917,6 +13619,8 @@ kind: Pod
 metadata:
   name: pod851
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11931,6 +13635,8 @@ kind: Pod
 metadata:
   name: pod852
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11945,6 +13651,8 @@ kind: Pod
 metadata:
   name: pod853
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11959,6 +13667,8 @@ kind: Pod
 metadata:
   name: pod854
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11973,6 +13683,8 @@ kind: Pod
 metadata:
   name: pod855
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -11987,6 +13699,8 @@ kind: Pod
 metadata:
   name: pod856
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12001,6 +13715,8 @@ kind: Pod
 metadata:
   name: pod857
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12015,6 +13731,8 @@ kind: Pod
 metadata:
   name: pod858
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12029,6 +13747,8 @@ kind: Pod
 metadata:
   name: pod859
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12043,6 +13763,8 @@ kind: Pod
 metadata:
   name: pod860
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12057,6 +13779,8 @@ kind: Pod
 metadata:
   name: pod861
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12071,6 +13795,8 @@ kind: Pod
 metadata:
   name: pod862
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12085,6 +13811,8 @@ kind: Pod
 metadata:
   name: pod863
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12099,6 +13827,8 @@ kind: Pod
 metadata:
   name: pod864
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12113,6 +13843,8 @@ kind: Pod
 metadata:
   name: pod865
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12127,6 +13859,8 @@ kind: Pod
 metadata:
   name: pod866
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12141,6 +13875,8 @@ kind: Pod
 metadata:
   name: pod867
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12155,6 +13891,8 @@ kind: Pod
 metadata:
   name: pod868
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12169,6 +13907,8 @@ kind: Pod
 metadata:
   name: pod869
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12183,6 +13923,8 @@ kind: Pod
 metadata:
   name: pod870
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12197,6 +13939,8 @@ kind: Pod
 metadata:
   name: pod871
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12211,6 +13955,8 @@ kind: Pod
 metadata:
   name: pod872
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12225,6 +13971,8 @@ kind: Pod
 metadata:
   name: pod873
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12239,6 +13987,8 @@ kind: Pod
 metadata:
   name: pod874
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12253,6 +14003,8 @@ kind: Pod
 metadata:
   name: pod875
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12267,6 +14019,8 @@ kind: Pod
 metadata:
   name: pod876
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12281,6 +14035,8 @@ kind: Pod
 metadata:
   name: pod877
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12295,6 +14051,8 @@ kind: Pod
 metadata:
   name: pod878
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12309,6 +14067,8 @@ kind: Pod
 metadata:
   name: pod879
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12323,6 +14083,8 @@ kind: Pod
 metadata:
   name: pod880
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12337,6 +14099,8 @@ kind: Pod
 metadata:
   name: pod881
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12351,6 +14115,8 @@ kind: Pod
 metadata:
   name: pod882
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12365,6 +14131,8 @@ kind: Pod
 metadata:
   name: pod883
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12379,6 +14147,8 @@ kind: Pod
 metadata:
   name: pod884
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12393,6 +14163,8 @@ kind: Pod
 metadata:
   name: pod885
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12407,6 +14179,8 @@ kind: Pod
 metadata:
   name: pod886
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12421,6 +14195,8 @@ kind: Pod
 metadata:
   name: pod887
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12435,6 +14211,8 @@ kind: Pod
 metadata:
   name: pod888
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12449,6 +14227,8 @@ kind: Pod
 metadata:
   name: pod889
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12463,6 +14243,8 @@ kind: Pod
 metadata:
   name: pod890
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12477,6 +14259,8 @@ kind: Pod
 metadata:
   name: pod891
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12491,6 +14275,8 @@ kind: Pod
 metadata:
   name: pod892
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12505,6 +14291,8 @@ kind: Pod
 metadata:
   name: pod893
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12519,6 +14307,8 @@ kind: Pod
 metadata:
   name: pod894
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12533,6 +14323,8 @@ kind: Pod
 metadata:
   name: pod895
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12547,6 +14339,8 @@ kind: Pod
 metadata:
   name: pod896
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12561,6 +14355,8 @@ kind: Pod
 metadata:
   name: pod897
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12575,6 +14371,8 @@ kind: Pod
 metadata:
   name: pod898
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12589,6 +14387,8 @@ kind: Pod
 metadata:
   name: pod899
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12603,6 +14403,8 @@ kind: Pod
 metadata:
   name: pod900
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12617,6 +14419,8 @@ kind: Pod
 metadata:
   name: pod901
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12631,6 +14435,8 @@ kind: Pod
 metadata:
   name: pod902
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12645,6 +14451,8 @@ kind: Pod
 metadata:
   name: pod903
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12659,6 +14467,8 @@ kind: Pod
 metadata:
   name: pod904
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12673,6 +14483,8 @@ kind: Pod
 metadata:
   name: pod905
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12687,6 +14499,8 @@ kind: Pod
 metadata:
   name: pod906
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12701,6 +14515,8 @@ kind: Pod
 metadata:
   name: pod907
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12715,6 +14531,8 @@ kind: Pod
 metadata:
   name: pod908
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12729,6 +14547,8 @@ kind: Pod
 metadata:
   name: pod909
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12743,6 +14563,8 @@ kind: Pod
 metadata:
   name: pod910
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12757,6 +14579,8 @@ kind: Pod
 metadata:
   name: pod911
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12771,6 +14595,8 @@ kind: Pod
 metadata:
   name: pod912
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12785,6 +14611,8 @@ kind: Pod
 metadata:
   name: pod913
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12799,6 +14627,8 @@ kind: Pod
 metadata:
   name: pod914
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12813,6 +14643,8 @@ kind: Pod
 metadata:
   name: pod915
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12827,6 +14659,8 @@ kind: Pod
 metadata:
   name: pod916
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12841,6 +14675,8 @@ kind: Pod
 metadata:
   name: pod917
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12855,6 +14691,8 @@ kind: Pod
 metadata:
   name: pod918
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12869,6 +14707,8 @@ kind: Pod
 metadata:
   name: pod919
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12883,6 +14723,8 @@ kind: Pod
 metadata:
   name: pod920
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12897,6 +14739,8 @@ kind: Pod
 metadata:
   name: pod921
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12911,6 +14755,8 @@ kind: Pod
 metadata:
   name: pod922
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12925,6 +14771,8 @@ kind: Pod
 metadata:
   name: pod923
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12939,6 +14787,8 @@ kind: Pod
 metadata:
   name: pod924
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12953,6 +14803,8 @@ kind: Pod
 metadata:
   name: pod925
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12967,6 +14819,8 @@ kind: Pod
 metadata:
   name: pod926
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12981,6 +14835,8 @@ kind: Pod
 metadata:
   name: pod927
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -12995,6 +14851,8 @@ kind: Pod
 metadata:
   name: pod928
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13009,6 +14867,8 @@ kind: Pod
 metadata:
   name: pod929
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13023,6 +14883,8 @@ kind: Pod
 metadata:
   name: pod930
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13037,6 +14899,8 @@ kind: Pod
 metadata:
   name: pod931
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13051,6 +14915,8 @@ kind: Pod
 metadata:
   name: pod932
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13065,6 +14931,8 @@ kind: Pod
 metadata:
   name: pod933
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13079,6 +14947,8 @@ kind: Pod
 metadata:
   name: pod934
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13093,6 +14963,8 @@ kind: Pod
 metadata:
   name: pod935
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13107,6 +14979,8 @@ kind: Pod
 metadata:
   name: pod936
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13121,6 +14995,8 @@ kind: Pod
 metadata:
   name: pod937
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13135,6 +15011,8 @@ kind: Pod
 metadata:
   name: pod938
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13149,6 +15027,8 @@ kind: Pod
 metadata:
   name: pod939
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13163,6 +15043,8 @@ kind: Pod
 metadata:
   name: pod940
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13177,6 +15059,8 @@ kind: Pod
 metadata:
   name: pod941
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13191,6 +15075,8 @@ kind: Pod
 metadata:
   name: pod942
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13205,6 +15091,8 @@ kind: Pod
 metadata:
   name: pod943
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13219,6 +15107,8 @@ kind: Pod
 metadata:
   name: pod944
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13233,6 +15123,8 @@ kind: Pod
 metadata:
   name: pod945
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13247,6 +15139,8 @@ kind: Pod
 metadata:
   name: pod946
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13261,6 +15155,8 @@ kind: Pod
 metadata:
   name: pod947
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13275,6 +15171,8 @@ kind: Pod
 metadata:
   name: pod948
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13289,6 +15187,8 @@ kind: Pod
 metadata:
   name: pod949
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13303,6 +15203,8 @@ kind: Pod
 metadata:
   name: pod950
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13317,6 +15219,8 @@ kind: Pod
 metadata:
   name: pod951
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13331,6 +15235,8 @@ kind: Pod
 metadata:
   name: pod952
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13345,6 +15251,8 @@ kind: Pod
 metadata:
   name: pod953
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13359,6 +15267,8 @@ kind: Pod
 metadata:
   name: pod954
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13373,6 +15283,8 @@ kind: Pod
 metadata:
   name: pod955
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13387,6 +15299,8 @@ kind: Pod
 metadata:
   name: pod956
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13401,6 +15315,8 @@ kind: Pod
 metadata:
   name: pod957
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13415,6 +15331,8 @@ kind: Pod
 metadata:
   name: pod958
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13429,6 +15347,8 @@ kind: Pod
 metadata:
   name: pod959
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13443,6 +15363,8 @@ kind: Pod
 metadata:
   name: pod960
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13457,6 +15379,8 @@ kind: Pod
 metadata:
   name: pod961
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13471,6 +15395,8 @@ kind: Pod
 metadata:
   name: pod962
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13485,6 +15411,8 @@ kind: Pod
 metadata:
   name: pod963
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13499,6 +15427,8 @@ kind: Pod
 metadata:
   name: pod964
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13513,6 +15443,8 @@ kind: Pod
 metadata:
   name: pod965
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13527,6 +15459,8 @@ kind: Pod
 metadata:
   name: pod966
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13541,6 +15475,8 @@ kind: Pod
 metadata:
   name: pod967
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13555,6 +15491,8 @@ kind: Pod
 metadata:
   name: pod968
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13569,6 +15507,8 @@ kind: Pod
 metadata:
   name: pod969
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13583,6 +15523,8 @@ kind: Pod
 metadata:
   name: pod970
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13597,6 +15539,8 @@ kind: Pod
 metadata:
   name: pod971
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13611,6 +15555,8 @@ kind: Pod
 metadata:
   name: pod972
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13625,6 +15571,8 @@ kind: Pod
 metadata:
   name: pod973
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13639,6 +15587,8 @@ kind: Pod
 metadata:
   name: pod974
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13653,6 +15603,8 @@ kind: Pod
 metadata:
   name: pod975
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13667,6 +15619,8 @@ kind: Pod
 metadata:
   name: pod976
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13681,6 +15635,8 @@ kind: Pod
 metadata:
   name: pod977
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13695,6 +15651,8 @@ kind: Pod
 metadata:
   name: pod978
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13709,6 +15667,8 @@ kind: Pod
 metadata:
   name: pod979
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13723,6 +15683,8 @@ kind: Pod
 metadata:
   name: pod980
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13737,6 +15699,8 @@ kind: Pod
 metadata:
   name: pod981
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13751,6 +15715,8 @@ kind: Pod
 metadata:
   name: pod982
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13765,6 +15731,8 @@ kind: Pod
 metadata:
   name: pod983
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13779,6 +15747,8 @@ kind: Pod
 metadata:
   name: pod984
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13793,6 +15763,8 @@ kind: Pod
 metadata:
   name: pod985
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13807,6 +15779,8 @@ kind: Pod
 metadata:
   name: pod986
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13821,6 +15795,8 @@ kind: Pod
 metadata:
   name: pod987
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13835,6 +15811,8 @@ kind: Pod
 metadata:
   name: pod988
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13849,6 +15827,8 @@ kind: Pod
 metadata:
   name: pod989
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13863,6 +15843,8 @@ kind: Pod
 metadata:
   name: pod990
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13877,6 +15859,8 @@ kind: Pod
 metadata:
   name: pod991
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13891,6 +15875,8 @@ kind: Pod
 metadata:
   name: pod992
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13905,6 +15891,8 @@ kind: Pod
 metadata:
   name: pod993
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13919,6 +15907,8 @@ kind: Pod
 metadata:
   name: pod994
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13933,6 +15923,8 @@ kind: Pod
 metadata:
   name: pod995
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13947,6 +15939,8 @@ kind: Pod
 metadata:
   name: pod996
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13961,6 +15955,8 @@ kind: Pod
 metadata:
   name: pod997
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13975,6 +15971,8 @@ kind: Pod
 metadata:
   name: pod998
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
@@ -13989,6 +15987,8 @@ kind: Pod
 metadata:
   name: pod999
   namespace: default
+  lables:
+    app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
   - name: webserver
