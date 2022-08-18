@@ -13,7 +13,7 @@ kind: Pod
 metadata:
   name: {{ .Name }}
   namespace: default
-  lables:
+  labels:
     app.kubernetes.io/name: tbyb-fishfood
 spec:
   containers:
