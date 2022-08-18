@@ -36,7 +36,7 @@ type data struct {
 	Name string
 }
 
-const numberOfPods = 10
+const numberOfPods = 5000
 
 func main() {
 	for i := 0; i < numberOfPods; i++ {

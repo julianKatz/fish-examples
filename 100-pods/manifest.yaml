@@ -1,0 +1,1399 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod0
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod1
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod2
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod3
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod4
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod5
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod6
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod7
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod8
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod9
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod10
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod11
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod12
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod13
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod14
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod15
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod16
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod17
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod18
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod19
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod20
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod21
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod22
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod23
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod24
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod25
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod26
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod27
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod28
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod29
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod30
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod31
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod32
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod33
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod34
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod35
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod36
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod37
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod38
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod39
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod40
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod41
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod42
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod43
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod44
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod45
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod46
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod47
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod48
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod49
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod50
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod51
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod52
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod53
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod54
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod55
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod56
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod57
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod58
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod59
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod60
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod61
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod62
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod63
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod64
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod65
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod66
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod67
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod68
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod69
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod70
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod71
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod72
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod73
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod74
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod75
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod76
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod77
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod78
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod79
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod80
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod81
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod82
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod83
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod84
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod85
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod86
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod87
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod88
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod89
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod90
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod91
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod92
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod93
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod94
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod95
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod96
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod97
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod98
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod99
+  namespace: default
+spec:
+  containers:
+  - name: webserver
+    image: pizza:latest
+    ports:
+    - containerPort: 80
+  - name: webwatcher
+    image: taco:latest
